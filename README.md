@@ -1,4 +1,10 @@
-### Hi there 👋
+### Luthier. Musician. Nerd. Not always that order, though...
+
+I'm a professional classical trained luthier, making and restoring violins to double basses. 
+I'm a musician too; actually, a started as a cellist and bass guitar player,while studying fine arts and sculpture in the city I born at, Faenza.
+After a while, I switched to double bass, and follow a career path as both contemporary and classical performer, playing in some of the most renowned Brazilian sinfonic orchestras.
+Today, I play mostly pop (as Leoni singer bassist) and baroque repertoire, as chamber musician...
+
 
 <!--
 **spadino/spadino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
