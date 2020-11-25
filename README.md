@@ -1,10 +1,15 @@
 ### Luthier. Musician. Nerd. Not always that order, though...
 
 I'm a professional classical trained luthier, making and restoring violins to double basses. 
-I'm a musician too; actually, a started as a cellist and bass guitar player,while studying fine arts and sculpture in the city I born at, Faenza.
+I'm a musician too; actually, a started as a cellist and bass guitar player, while studying fine arts and sculpture in the city I born at, Faenza.
 After a while, I switched to double bass, and follow a career path as both contemporary and classical performer, playing in some of the most renowned Brazilian sinfonic orchestras.
 Today, I play mostly pop (as Leoni singer bassist) and baroque repertoire, as chamber musician...
 
+### Now, my nerdish side...
+
+I always had great interest in science, astronomy, phisics, math, geometry and computers. As an artist, my main influence is the renaissance art and its integrated, somewhat holistic conception. Sacred geometry is something I really dig in...
+I'm a strong supporter of open source and open information, so naturally I started using Linux, GNU and open source software by the end of XX century. My favourite Linux distribution is Debian, although I played with many of them. 
+I like to code, and during my journey I learned many languages and tools.
 
 <!--
 **spadino/spadino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
